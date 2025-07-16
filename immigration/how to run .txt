@@ -1,0 +1,14 @@
+1 install these software in your computer
+a)Node.js
+b)mongo db community 
+
+2)restart it 
+3) open terminal in he folder then write these command for front end 
+cd FrontendBKP
+npm install 
+npm start
+
+then open another terminal in then write cd backendBKP
+npm install 
+node server.js
+rd /s /q node_modules
